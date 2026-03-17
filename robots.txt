@@ -1,0 +1,2 @@
+Sitemap: http://synchron2026.inria.fr/sitemap.xml
+
