@@ -574,13 +574,15 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T103000
 DTEND;TZID=UTC:20261119T110000
 DTSTAMP;TZID=UTC:20261119T103000
-UID:free-Open slot-2026-11-19-10-30
+UID:Formally-Verified-Compilation-of-a-User-Interaction-Oriented-Programming-Language
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Open slot
-URL:
-DESCRIPTION:
+SUMMARY:Formally Verified Compilation of a User Interaction Oriented Pro
+ gramming Language
+URL:http://synchron2026.inria.fr/abstracts.html#Formally-Verified-Compil
+ ation-of-a-User-Interaction-Oriented-Programming-Language
+DESCRIPTION:Tom Soucies
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
