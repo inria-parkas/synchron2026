@@ -206,12 +206,12 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261116T160000
 DTEND;TZID=UTC:20261116T163000
 DTSTAMP;TZID=UTC:20261116T160000
-UID:PSyRe-/-saɪr/:-Pythonic-Synchronous-Reactive-(demo)
+UID:Psyre-/-saɪr/:-Pythonic-Synchronous-Reactive-(demo)
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:PSyRe /'saɪr/: Pythonic Synchronous Reactive (demo)
-URL:http://synchron2026.inria.fr/abstracts.html#PSyRe-/-saɪr/:-Pythonic
+SUMMARY:Psyre /'saɪr/: Pythonic Synchronous Reactive (demo)
+URL:http://synchron2026.inria.fr/abstracts.html#Psyre-/-saɪr/:-Pythonic
  -Synchronous-Reactive-(demo)
 DESCRIPTION:Albert Cohen
 TRANSP:OPAQUE
@@ -503,14 +503,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T080000
 DTEND;TZID=UTC:20261119T083000
 DTSTAMP;TZID=UTC:20261119T080000
-UID:Inferring-worst-case-execution-time-in-a-cycle-accurate-HLS-language
+UID:Inferring-worst-case-execution-time-in-a-synchronous-language-with-shared-resources
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Inferring worst-case execution time in a cycle-accurate HLS lang
- uage
+SUMMARY:Inferring worst-case execution time in a synchronous language wi
+ th shared resources
 URL:http://synchron2026.inria.fr/abstracts.html#Inferring-worst-case-exe
- cution-time-in-a-cycle-accurate-HLS-language
+ cution-time-in-a-synchronous-language-with-shared-resources
 DESCRIPTION:Loïc Sylvestre
 TRANSP:OPAQUE
 END:VEVENT
