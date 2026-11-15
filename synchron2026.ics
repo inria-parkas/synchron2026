@@ -98,14 +98,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261116T103000
 DTEND;TZID=UTC:20261116T110000
 DTSTAMP;TZID=UTC:20261116T103000
-UID:Online-Monitoring-and-Verification-of-Dynamic-System-Performance-Properties-in-MTLpf
+UID:Online-Monitoring-and-Verification-of-Temporal-logics
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Online Monitoring and Verification of Dynamic System Performance
-  Properties in MTLpf
+SUMMARY:Online Monitoring and Verification of Temporal logics
 URL:http://synchron2026.inria.fr/abstracts.html#Online-Monitoring-and-Ve
- rification-of-Dynamic-System-Performance-Properties-in-MTLpf
+ rification-of-Temporal-logics
 DESCRIPTION:Elia Ghisellini
 TRANSP:OPAQUE
 END:VEVENT
