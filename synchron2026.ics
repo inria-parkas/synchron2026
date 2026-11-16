@@ -276,13 +276,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261117T100000
 DTEND;TZID=UTC:20261117T103000
 DTSTAMP;TZID=UTC:20261117T100000
-UID:free-Open slot-2026-11-17-10-00
+UID:Loops-in-Lustre-and-their-interaction-with-views
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Open slot
-URL:
-DESCRIPTION:
+SUMMARY:Loops in Lustre and their interaction with views
+URL:http://synchron2026.inria.fr/abstracts.html#Loops-in-Lustre-and-thei
+ r-interaction-with-views
+DESCRIPTION:Grégoire Bussone
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
