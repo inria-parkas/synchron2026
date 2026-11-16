@@ -9601,7 +9601,7 @@ img.map {
 }
 
 table.program {
-  padding-below: 4em;
+  margin-bottom: 4em;
 }
 
 table.program td.timeslot {
