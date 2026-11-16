@@ -9600,6 +9600,10 @@ img.map {
   }
 }
 
+table.program {
+  padding-below: 4em;
+}
+
 table.program td.timeslot {
   min-width: 8em;
   text-align: center;
