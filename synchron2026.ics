@@ -152,12 +152,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261116T140000
 DTEND;TZID=UTC:20261116T143000
 DTSTAMP;TZID=UTC:20261116T140000
-UID:TBD
+UID:Experiment-report:-Implementing-Kalman-filters-in-Lustre-based-languages
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBD
-URL:http://synchron2026.inria.fr/abstracts.html#TBD
+SUMMARY:Experiment report: Implementing Kalman filters in Lustre-based l
+ anguages
+URL:http://synchron2026.inria.fr/abstracts.html#Experiment-report:-Imple
+ menting-Kalman-filters-in-Lustre-based-languages
 DESCRIPTION:Victor Miquel
 TRANSP:OPAQUE
 END:VEVENT
@@ -601,39 +603,40 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T130000
 DTEND;TZID=UTC:20261119T133000
 DTSTAMP;TZID=UTC:20261119T130000
-UID:free-Open slot-2026-11-19-13-00
+UID:Robust-STL-with-a-three-valued-twist
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Open slot
-URL:
-DESCRIPTION:
+SUMMARY:Robust STL with a three-valued twist
+URL:http://synchron2026.inria.fr/abstracts.html#Robust-STL-with-a-three-
+ valued-twist
+DESCRIPTION:Elia Ghisellini
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T133000
 DTEND;TZID=UTC:20261119T140000
 DTSTAMP;TZID=UTC:20261119T133000
-UID:free-Open slot-2026-11-19-13-30
+UID:TBA
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Open slot
-URL:
-DESCRIPTION:
+SUMMARY:TBA
+URL:http://synchron2026.inria.fr/abstracts.html#TBA
+DESCRIPTION:Luke Burke
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T140000
 DTEND;TZID=UTC:20261119T143000
 DTSTAMP;TZID=UTC:20261119T140000
-UID:Down-the--what-is-the-type-of-fby--hole
+UID:Wild-idea:-Down-the--what-is-the-type-of-fby--hole
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Down the "what is the type of fby"-hole
-URL:http://synchron2026.inria.fr/abstracts.html#Down-the--what-is-the-ty
- pe-of-fby--hole
+SUMMARY:Wild idea: Down the "what is the type of fby"-hole
+URL:http://synchron2026.inria.fr/abstracts.html#Wild-idea:-Down-the--wha
+ t-is-the-type-of-fby--hole
 DESCRIPTION:Victor Miquel
 TRANSP:OPAQUE
 END:VEVENT
