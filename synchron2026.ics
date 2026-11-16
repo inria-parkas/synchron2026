@@ -237,13 +237,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261117T103000
 DTEND;TZID=UTC:20261117T110000
 DTSTAMP;TZID=UTC:20261117T103000
-UID:free-Open slot-2026-11-17-10-30
+UID:Semantics-of-Lustre-s-forward-loop-in-Rocq
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Open slot
-URL:
-DESCRIPTION:
+SUMMARY:Semantics of Lustre's forward loop in Rocq
+URL:http://synchron2026.inria.fr/abstracts.html#Semantics-of-Lustre-s-fo
+ rward-loop-in-Rocq
+DESCRIPTION:Balthazar Patiachvili
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
