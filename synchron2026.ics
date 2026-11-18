@@ -661,12 +661,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261120T100000
 DTEND;TZID=UTC:20261120T103000
 DTSTAMP;TZID=UTC:20261120T100000
-UID:TBA
+UID:A-Process-Algebra-with-Clocks-and-Priorities
 LOCATION:Fréjus
-SEQUENCE:4
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2026.inria.fr/abstracts.html#TBA
+SUMMARY:A Process Algebra with Clocks and Priorities
+URL:http://synchron2026.inria.fr/abstracts.html#A-Process-Algebra-with-C
+ locks-and-Priorities
 DESCRIPTION:Claude Stolze
 TRANSP:OPAQUE
 END:VEVENT
