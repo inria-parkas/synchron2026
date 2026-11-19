@@ -648,12 +648,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261120T093000
 DTEND;TZID=UTC:20261120T100000
 DTSTAMP;TZID=UTC:20261120T093000
-UID:TBA
+UID:Ahead-of-Time-Optimization-of-Dynamic-Languages-using-Duplication-and-Multi-Return-Functions
 LOCATION:Fréjus
-SEQUENCE:5
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2026.inria.fr/abstracts.html#TBA
+SUMMARY:Ahead-of-Time Optimization of Dynamic Languages using Duplicatio
+ n and Multi-Return Functions
+URL:http://synchron2026.inria.fr/abstracts.html#Ahead-of-Time-Optimizati
+ on-of-Dynamic-Languages-using-Duplication-and-Multi-Return-Functions
 DESCRIPTION:Olivier Melançon
 TRANSP:OPAQUE
 END:VEVENT
