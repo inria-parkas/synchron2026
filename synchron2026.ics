@@ -569,12 +569,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T153000
 DTEND;TZID=UTC:20261119T163000
 DTSTAMP;TZID=UTC:20261119T153000
-UID:TBA
+UID:No-Free-Lunch:-Non-Rigid-Terms-in-Free-Quantified-Modal-Logic-without-Equality
 LOCATION:Fréjus
-SEQUENCE:7
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2026.inria.fr/abstracts.html#TBA
+SUMMARY:No Free Lunch: Non-Rigid Terms in Free Quantified Modal Logic wi
+ thout Equality
+URL:http://synchron2026.inria.fr/abstracts.html#No-Free-Lunch:-Non-Rigid
+ -Terms-in-Free-Quantified-Modal-Logic-without-Equality
 DESCRIPTION:Michael Mendler and Luke Burke
 TRANSP:OPAQUE
 END:VEVENT
