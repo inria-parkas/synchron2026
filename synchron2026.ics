@@ -377,13 +377,12 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261118T103000
 DTEND;TZID=UTC:20261118T110000
 DTSTAMP;TZID=UTC:20261118T103000
-UID:LeanCharts-WiP-III:-Verification
+UID:LeanCharts-Validation
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:LeanCharts WiP III: Verification
-URL:http://synchron2026.inria.fr/abstracts.html#LeanCharts-WiP-III:-Veri
- fication
+SUMMARY:LeanCharts Validation
+URL:http://synchron2026.inria.fr/abstracts.html#LeanCharts-Validation
 DESCRIPTION:Kai Engelhardt
 TRANSP:OPAQUE
 END:VEVENT
@@ -417,14 +416,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T080000
 DTEND;TZID=UTC:20261119T083000
 DTSTAMP;TZID=UTC:20261119T080000
-UID:Inferring-worst-case-execution-time-in-a-synchronous-language-with-shared-resources
+UID:Inferring-worst-case-execution-time-for-parallel-synchronous-programs-with-shared-memory
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Inferring worst-case execution time in a synchronous language wi
- th shared resources
+SUMMARY:Inferring worst-case execution time for parallel synchronous pro
+ grams with shared memory
 URL:http://synchron2026.inria.fr/abstracts.html#Inferring-worst-case-exe
- cution-time-in-a-synchronous-language-with-shared-resources
+ cution-time-for-parallel-synchronous-programs-with-shared-memory
 DESCRIPTION:Loïc Sylvestre
 TRANSP:OPAQUE
 END:VEVENT
@@ -492,7 +491,7 @@ UID:Formally-Verified-Compilation-of-a-User-Interaction-Oriented-Programming-Lan
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Formally Verified Compilation of a User Interaction Oriented Pro
+SUMMARY:Formally Verified Compilation of a User-Interaction-Oriented Pro
  gramming Language
 URL:http://synchron2026.inria.fr/abstracts.html#Formally-Verified-Compil
  ation-of-a-User-Interaction-Oriented-Programming-Language
@@ -596,13 +595,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T163000
 DTEND;TZID=UTC:20261119T170000
 DTSTAMP;TZID=UTC:20261119T163000
-UID:TBA
+UID:A-process-algebra-with-prioritised-actions-and-multiple-clocks
 LOCATION:Fréjus
-SEQUENCE:6
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2026.inria.fr/abstracts.html#TBA
-DESCRIPTION:Michael Mendler
+SUMMARY:A process algebra with prioritised actions and multiple clocks
+URL:http://synchron2026.inria.fr/abstracts.html#A-process-algebra-with-p
+ rioritised-actions-and-multiple-clocks
+DESCRIPTION:Claude Stolze
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -661,14 +661,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261120T100000
 DTEND;TZID=UTC:20261120T103000
 DTSTAMP;TZID=UTC:20261120T100000
-UID:A-Process-Algebra-with-Clocks-and-Priorities
+UID:Surprise
 LOCATION:Fréjus
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:A Process Algebra with Clocks and Priorities
-URL:http://synchron2026.inria.fr/abstracts.html#A-Process-Algebra-with-C
- locks-and-Priorities
-DESCRIPTION:Claude Stolze
+SUMMARY:Surprise
+URL:http://synchron2026.inria.fr/abstracts.html#Surprise
+DESCRIPTION:Michael Mendler
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
