@@ -567,7 +567,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T153000
-DTEND;TZID=UTC:20261119T163000
+DTEND;TZID=UTC:20261119T161500
 DTSTAMP;TZID=UTC:20261119T153000
 UID:No-Free-Lunch:-Non-Rigid-Terms-in-Free-Quantified-Modal-Logic-without-Equality
 LOCATION:Fréjus
@@ -581,25 +581,27 @@ DESCRIPTION:Michael Mendler and Luke Burke
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261119T163000
-DTEND;TZID=UTC:20261119T170000
-DTSTAMP;TZID=UTC:20261119T163000
-UID:TBA
+DTSTART;TZID=UTC:20261119T161500
+DTEND;TZID=UTC:20261119T164500
+DTSTAMP;TZID=UTC:20261119T161500
+UID:Verification-of-Hybrid-Synchronous-Programs:-Incorporating-Ordinary-Differential-Equations
 LOCATION:Fréjus
-SEQUENCE:7
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2026.inria.fr/abstracts.html#TBA
+SUMMARY:Verification of Hybrid Synchronous Programs: Incorporating Ordin
+ ary Differential Equations
+URL:http://synchron2026.inria.fr/abstracts.html#Verification-of-Hybrid-S
+ ynchronous-Programs:-Incorporating-Ordinary-Differential-Equations
 DESCRIPTION:Jean-Baptiste Jeannin
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261119T170000
-DTEND;TZID=UTC:20261119T173000
-DTSTAMP;TZID=UTC:20261119T170000
+DTSTART;TZID=UTC:20261119T164500
+DTEND;TZID=UTC:20261119T171500
+DTSTAMP;TZID=UTC:20261119T164500
 UID:A-process-algebra-with-prioritised-actions-and-multiple-clocks
 LOCATION:Fréjus
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:A process algebra with prioritised actions and multiple clocks
 URL:http://synchron2026.inria.fr/abstracts.html#A-process-algebra-with-p
