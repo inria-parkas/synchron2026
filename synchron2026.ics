@@ -684,12 +684,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261120T103000
 DTEND;TZID=UTC:20261120T110000
 DTSTAMP;TZID=UTC:20261120T103000
-UID:Surprise
+UID:A-Functional-Executable-Semantics-for-a-Hybrid-Systems-Language-(work-in-progress)
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Surprise
-URL:http://synchron2026.inria.fr/abstracts.html#Surprise
+SUMMARY:A Functional Executable Semantics for a Hybrid Systems Language 
+ (work-in-progress)
+URL:http://synchron2026.inria.fr/abstracts.html#A-Functional-Executable-
+ Semantics-for-a-Hybrid-Systems-Language-(work-in-progress)
 DESCRIPTION:Marc Pouzet
 TRANSP:OPAQUE
 END:VEVENT
