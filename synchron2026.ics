@@ -627,12 +627,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261120T083000
 DTEND;TZID=UTC:20261120T090000
 DTSTAMP;TZID=UTC:20261120T083000
-UID:TBA
+UID:Static-analysis-techniques:-verification-of-Gilbreath-s-trick
 LOCATION:Fréjus
-SEQUENCE:6
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2026.inria.fr/abstracts.html#TBA
+SUMMARY:Static analysis techniques: verification of Gilbreath's trick
+URL:http://synchron2026.inria.fr/abstracts.html#Static-analysis-techniqu
+ es:-verification-of-Gilbreath-s-trick
 DESCRIPTION:Charles de Haro
 TRANSP:OPAQUE
 END:VEVENT
@@ -668,12 +669,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261120T100000
 DTEND;TZID=UTC:20261120T103000
 DTSTAMP;TZID=UTC:20261120T100000
-UID:Surprise
+UID:In-Search-of-“System-MP”:-Polymorphic-Typing-for-Synchronous-Stream-Processing
 LOCATION:Fréjus
-SEQUENCE:1
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Surprise
-URL:http://synchron2026.inria.fr/abstracts.html#Surprise
+SUMMARY:In Search of “System MP”: Polymorphic Typing for Synchronous
+  Stream Processing
+URL:http://synchron2026.inria.fr/abstracts.html#In-Search-of-“System-M
+ P”:-Polymorphic-Typing-for-Synchronous-Stream-Processing
 DESCRIPTION:Michael Mendler
 TRANSP:OPAQUE
 END:VEVENT
