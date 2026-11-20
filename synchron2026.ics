@@ -627,13 +627,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20261120T083000
 DTEND;TZID=UTC:20261120T090000
 DTSTAMP;TZID=UTC:20261120T083000
-UID:Static-analysis-techniques:-verification-of-Gilbreath-s-trick
+UID:Static-Analysis-Techniques:-Verification-of-Gilbreath-s-Trick
 LOCATION:Fréjus
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Static analysis techniques: verification of Gilbreath's trick
-URL:http://synchron2026.inria.fr/abstracts.html#Static-analysis-techniqu
- es:-verification-of-Gilbreath-s-trick
+SUMMARY:Static Analysis Techniques: Verification of Gilbreath's Trick
+URL:http://synchron2026.inria.fr/abstracts.html#Static-Analysis-Techniqu
+ es:-Verification-of-Gilbreath-s-Trick
 DESCRIPTION:Charles de Haro
 TRANSP:OPAQUE
 END:VEVENT
